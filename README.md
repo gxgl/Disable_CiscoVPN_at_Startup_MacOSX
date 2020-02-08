@@ -2,7 +2,7 @@
 
 The previous commands didn't worked on MacOSX Catalina.
 
-The install was done by default as described here https://apple.stackexchange.com/a/214075/361715 
+The install was done by default as described here https://apple.stackexchange.com/a/214075/361715 only the VPN component was checked.
 
 ## As the STEP1 - I have tryied the following two commands
 **sudo defaults write /Library/LaunchAgents/com.cisco.anyconnect.gui.plist RunAtLoad -bool false** 
