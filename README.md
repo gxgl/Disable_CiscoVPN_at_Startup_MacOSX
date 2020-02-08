@@ -39,7 +39,7 @@ or ./enable_ciscovpn_startup.sh to enable the Anyconnect at startup
 If you want to contribute to this script please let me know in the **Issues** section if you find any errors also you may fork it, improve it and so on...
 
 ## Tests
-The scripts were tested only on MacOSX Catalina 10.15.3 and with Cisco Anyconnect v4.8.00175 as per february 9th, 2020
+The scripts were tested only on MacOSX Catalina 10.15.3 and with Cisco Anyconnect v4.8.00175 as per february 8th, 2020
 You may report back your tests also.
 
 ## License
